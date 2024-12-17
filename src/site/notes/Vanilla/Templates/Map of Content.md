@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vanilla/templates/map-of-content/"}
+{"dg-publish":true,"dg-path":"Templates/Map of Content.md","permalink":"/templates/map-of-content/"}
 ---
 
 {{date:YYYY-MM-DD}}

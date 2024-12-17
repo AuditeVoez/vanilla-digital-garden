@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vanilla/templates/idea-template/"}
+{"dg-publish":true,"dg-path":"Templates/Idea Template.md","permalink":"/templates/idea-template/"}
 ---
 
 {{date:YYYY-MM-DD}}

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vanilla/soleil/html/"}
+{"dg-publish":true,"dg-path":"Soleil/HTML.md","permalink":"/soleil/html/"}
 ---
 
 2024-12-17
