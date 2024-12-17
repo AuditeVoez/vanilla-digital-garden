@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lumiere/home/","tags":["gardenEntry"],"dgShowLocalGraph":"false","created":"2024-12-17T15:26:00.106+08:00","updated":"2024-12-17T16:37:44.263+08:00"}
+{"dg-publish":true,"permalink":"/lumiere/home/","tags":["gardenEntry"],"dgShowLocalGraph":"false","dgShowToc":"false","created":"2024-12-17T15:26:00.106+08:00","updated":"2024-12-17T16:39:26.157+08:00"}
 ---
 
 # Hello There!
