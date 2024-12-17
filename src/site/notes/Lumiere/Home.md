@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lumiere/home/","tags":["gardenEntry"],"dgShowBacklinks":"false","dgShowLocalGraph":"false","dgShowToc":"false","created":"2024-12-17T15:26:00.106+08:00","updated":"2024-12-17T16:57:32.996+08:00"}
+{"dg-publish":true,"permalink":"/lumiere/home/","tags":["gardenEntry"],"dgShowBacklinks":"false","dgShowLocalGraph":"false","dgShowToc":"false","created":"2024-12-17T15:26:00.106+08:00","updated":"2024-12-17T17:06:36.570+08:00"}
 ---
 
 # Hello There!
@@ -8,7 +8,7 @@ I'm [AuditeVoez](https://github.com/AuditeVoez), a Computer Science Student at t
 
 # Why Vanilla Garden?
 
-This website was conceived with [Vanilla (Nekopara)'s theme](https://store.steampowered.com/app/333600/NEKOPARA_Vol_1/)in mind. Then, since this project was deployed with the help of the [Digital Garden plugin](https://github.com/oleeskild/obsidian-digital-garden), I decided to add the "garden" part alongside it.
+This website was conceived with Vanilla(Nekopara)'s theme in mind. Then, since this project was deployed with the help of the [Digital Garden plugin](https://github.com/oleeskild/obsidian-digital-garden), I decided to add the "garden" part alongside it.
 
 # What's the purpose of this website?
 
@@ -22,4 +22,4 @@ This website is not affiliated, associated, authorized, or officially connected 
 Because she's cute, that's all.
 
 
-![Vanilla_mission_success.gif](/img/user/Vanilla/Files/Vanilla_mission_success.gif)GIF taken from: [Nekopara: Catch the Catgirl! - App Lab - Code.org](https://studio.code.org/projects/applab/vJ8ZS54G7L4SbOArm3oaDmfVzSuVscf0Ih0xapn4veI)
+![Vanilla_mission_success.gif](/img/user/Vanilla/Files/Vanilla_mission_success.gif)GIF taken from [this website](https://studio.code.org/projects/applab/vJ8ZS54G7L4SbOArm3oaDmfVzSuVscf0Ih0xapn4veI)
