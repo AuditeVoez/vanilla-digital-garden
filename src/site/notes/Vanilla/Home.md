@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"],"dgShowFileTree":true}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","tags":["gardenEntry"],"created":"2024-12-17T15:26:00.106+08:00","updated":"2024-12-17T16:13:51.224+08:00"}
 ---
 
 # Hello There!

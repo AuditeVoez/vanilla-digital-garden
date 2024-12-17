@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Soleil/Git.md","permalink":"/soleil/git/"}
+{"dg-publish":true,"dg-path":"Soleil/Git.md","permalink":"/soleil/git/","created":"2024-12-16T20:52:28.109+08:00","updated":"2024-12-17T16:08:35.811+08:00"}
 ---
 
 2024-12-16
@@ -24,7 +24,7 @@ In the terminal, you use `git` before any command you need to do.
 | git push   | Pushes your commits to your repository                   | git push origin main         |
 | git status | Queries the current status of the stage                  | git status                   |
 | git clone  | Clones a repository onto the local machine               | git clone (link)             |
->Staging is basically saying "This file is ready for a commit"
+>Staging is basically saying "Hey! This file is ready for a commit"
 
 
 # References
