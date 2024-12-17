@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lumiere/home/","tags":["gardenEntry"],"dgShowBacklinks":"false","dgShowLocalGraph":"false","dgShowToc":"false","created":"2024-12-17T15:26:00.106+08:00","updated":"2024-12-17T17:06:36.570+08:00"}
+{"dg-publish":true,"permalink":"/lumiere/home/","tags":["gardenEntry"],"dgShowBacklinks":"false","dgShowLocalGraph":"false","dgShowToc":"false","created":"2024-12-17T15:26:00.106+08:00","updated":"2024-12-17T17:06:57.241+08:00"}
 ---
 
 # Hello There!
@@ -12,7 +12,7 @@ This website was conceived with Vanilla(Nekopara)'s theme in mind. Then, since t
 
 # What's the purpose of this website?
 
-Well, the main reason why I deployed this website is to share my code to my friends, and that's about it.
+Well, the main reason why I deployed this website is to share my notes to my friends, and that's about it.
 
 ```ad-attention
 This website is not affiliated, associated, authorized, or officially connected with Nekoworks and its subsidiaries. This site is merely inspired by Nekopara.
