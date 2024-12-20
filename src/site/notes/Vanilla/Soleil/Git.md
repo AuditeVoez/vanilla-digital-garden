@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Soleil/Git.md","permalink":"/soleil/git/","created":"2024-12-16T20:52:28.109+08:00","updated":"2024-12-17T16:08:35.811+08:00"}
+{"dg-publish":true,"dg-path":"Soleil/Git.md","permalink":"/soleil/git/","created":"2024-12-17T18:43:59.676+08:00","updated":"2024-12-17T16:08:35.811+08:00"}
 ---
 
 2024-12-16

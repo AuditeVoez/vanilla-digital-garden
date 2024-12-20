@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Soleil/Shell.md","permalink":"/soleil/shell/","created":"2024-12-16T17:00:58.089+08:00","updated":"2024-12-17T15:47:45.668+08:00"}
+{"dg-publish":true,"dg-path":"Soleil/Shell.md","permalink":"/soleil/shell/","created":"2024-12-17T18:43:59.682+08:00","updated":"2024-12-17T15:47:45.668+08:00"}
 ---
 
 2024-12-16
